@@ -1,1 +1,1 @@
-# chatbot-python
+Desenvolver um chatbot básico em Python que responda perguntas pré-definidas, simule uma conversa e funcione via terminal. O objetivo é entender como funciona o fluxo de uma conversa com tratamento de texto e, se possível, aplicar conceitos de POO para modularização.
